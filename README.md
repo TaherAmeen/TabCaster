@@ -12,7 +12,7 @@ So, I thought of a better way: What if I kept the other window or full-screen st
 
 ## How to use it
 - Simply open TabCaster.html file with Chrome (or just double-click on it if Chrome is your default browser) and the streaming page will show up in a new tab.
-- Click "Start streaming" and the screen sharing pop-up window will appear for you to choose what to stream.
+- Click "Start stream" and the screen sharing pop-up window will appear for you to choose what to stream.
 
 ## Any ideas?
 Please feel free to suggest any changes or improvements. I would like to see what you have in mind.
